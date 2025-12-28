@@ -4,7 +4,7 @@ a simple CLI calculator thats uses CASIC - a FOSS module thats makes python codi
 # how to use
 shuld work on freeBSD macOS windows and 100% linux!
 
-1. install python! (run.sh for linux coming soon)
+1. install python! (or if on linux use the run.sh and it will do all of this for you!)
 
 2. use python to run the file from your OS-es CLI like this!:
 python3 main.py (make sure youre in the same folder as: "main.py" and "CASIC.py"
