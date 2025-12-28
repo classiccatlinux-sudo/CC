@@ -10,8 +10,8 @@ shuld work on freeBSD macOS windows and 100% linux!
 python3 main.py (make sure youre in the same folder as: "main.py" and "CASIC.py"
 
 # info
-made by classic14
-FOSS under GPL 3.0
+made by classic14.
+FOSS under GPL 3.0.
 CASIC was used in this program!
 
 ![logo](https://github.com/user-attachments/assets/0715d5b5-07c7-4b21-bcbb-e8d79252036b)
