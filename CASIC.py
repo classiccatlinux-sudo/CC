@@ -36,6 +36,11 @@ def reboot():
             
             
 #extras
+def put(text):
+    print(text)
+    time.sleep(2)
+    clear()
+
 def used():
     print("CASIC - 1.0 was used in this program.")
     
